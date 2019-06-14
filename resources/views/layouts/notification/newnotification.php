@@ -1,0 +1,1 @@
+ <a class="dropdown-item" href="javascript:void(0)">{{ $notification->data['user']['name'] }} creat new category</a>

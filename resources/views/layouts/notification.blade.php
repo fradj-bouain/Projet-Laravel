@@ -1,0 +1,1 @@
+ <a class="dropdown-item" href="javascript:void(0)">{{ snake_case(classe_basename($notification->type)) }}</a>
